@@ -15,6 +15,7 @@ Colección de contenidos y recursos en español para desarrolladores de golang
     - [Cursos](#cursos)
     - [Tutoriales](#tutoriales)
     - [Post Mortems](#post-mortems)
+    - [Miscelaneos](#miscelaneos)
 
 ## Sitios
 
@@ -43,4 +44,7 @@ Recursos varios para el desarrollador de Go
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
 
 ### Post Mortems
-  * [Olvidando el precioso recover](https://luisgg.me/Software_Development/2_-_langs/2_-_golang/2_-_When_gophers_attack/Forgetting_that_precious_recover/ES/Olvidando_el_precioso_recover.html) - Post mortem de un evento con afectación en Mercado libre por Luis Gomez
+  * [Olvidando el precioso recover](https://luisgg.me/Software_Development/2_-_langs/2_-_golang/2_-_When_gophers_attack/Forgetting_that_precious_recover/ES/Olvidando_el_precioso_recover.html) - Post mortem de un evento con afectación en Mercado libre por [Luis Gomez](https://github.com/lggomez)
+
+### Miscelaneos
+  * [gophers-mx/recursos](https://github.com/gophers-mx/recursos) - Repositorio de recursos por la comunidad [gophers-mx](https://github.com/gophers-mx)
