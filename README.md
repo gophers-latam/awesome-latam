@@ -38,7 +38,7 @@ Recursos varios para el desarrollador de Go
   * TODO
 
 ### Cursos
-  * TODO
+  * [Curso Gratis Go de 0 a 100](https://www.youtube.com/playlist?list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g)  gratuito en youtube por [G Coding Academy](https://www.youtube.com/c/GCodingAcademy)
 
 ### Tutoriales
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
