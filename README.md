@@ -28,7 +28,7 @@ Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Go
 
   * [c0d3.mx](https://umarquez.c0d3.mx/posts) - Blog con tutoriales de Go por [Uriel Márquez](https://github.com/umarquez)
 
-  * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por varios autores.
+  * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
 
 ### Videos y canales
@@ -74,7 +74,7 @@ Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Go
 
   * [meetups](http://golang.org/s/meetup) - Red mundial de desarrolladores de Go por [GDG](https://www.meetup.com/es/pro/go)
 
-  * [friendsofgo](https://github.com/friendsofgo) - Repositorio del blog [FriendsOfGo](https://friendsofgo.tech/) con ejemplos y proyectos
+  * [friendsofgo](https://github.com/friendsofgo) - Repositorio del blog [FriendsOfGo](https://friendsofgo.tech/) con ejemplos y proyectos por  [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
 
 <div><hr></div>
