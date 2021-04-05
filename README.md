@@ -23,6 +23,9 @@ Colección de contenidos y recursos principalmente en Español para desarrollado
 
 Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Golang
 
+## Menciones honoríficas en otros idiomas
+  * [awesome-go (inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
+
 ### Blogs
   * [charly3pins](https://charly3pins.dev/es/) - Blog de Go y tutoriales de [Carles Fuste](https://github.com/charly3pins)
 
