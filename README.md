@@ -33,7 +33,6 @@ Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Go
 
   * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
-
 ### Videos y canales
   * [Golandia](https://www.youtube.com/c/Golandia) - Canal de youtube con tutoriales y discusiones acerca de Go y packages
 
@@ -63,6 +62,8 @@ Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Go
   * [Introducción a Tecnologías del Desarrollo](https://www.udemy.com/course/masters-desarrollo/) apartado de Golang, gratuito, en udemy por [Masters del Desarrollo](https://www.facebook.com/groups/masters.del.desarrollo/)
 
   * [Primeros pasos con Go](https://docs.microsoft.com/es-es/learn/paths/go-first-steps/) curso interactivo de libre acceso por [Microsoft](https://microsoft.com/)
+
+   * [🔴 Curso de Go (Golang) 2021 👉 GRATIS](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) cen youtube por [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/playlists)
 
 ### Tutoriales
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
