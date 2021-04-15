@@ -69,6 +69,7 @@ Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Go
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
 
   * [REST API con Go](https://www.youtube.com/watch?v=pQAV8A9KLwk) - Este recurso esta en YouTube por [Fazt](https://www.youtube.com/channel/UCMn28O1sQGochG94HdlthbA)
+  * [Maps en Go](https://www.youtube.com/watch?v=Tl7mi9QmLns) - En inglés
 
 ### Post Mortems
   * [Olvidando el precioso recover](https://luisgg.me/Software_Development/2_-_langs/2_-_golang/2_-_When_gophers_attack/Forgetting_that_precious_recover/ES/Olvidando_el_precioso_recover.html) - Post mortem de un evento con afectación en Mercado libre por [Luis Gomez](https://github.com/lggomez)
