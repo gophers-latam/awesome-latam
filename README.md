@@ -9,17 +9,17 @@
 
 ### Contenidos:
 
-- 🌐 [Sitios](#sitios)
-    - 🗒️ [Blogs](#blogs)
-    - 📺 [Videos y canales](#blogs)
-    - 👨‍🏫 [Charlas y presentaciones](#charlas-y-presentaciones)
+- 🌐 [Sitios](#-sitios)
+    - 🗒️ [Blogs](#%EF%B8%8F-blogs)
+    - 📺 [Videos y canales](#-videos-y-canales)
+    - 👨‍🏫 [Charlas y presentaciones](#-charlas-y-presentaciones)
 
-- 📦 [Recursos](#recursos)
-    - 🏁 [Benchmarks](#benchmarks)
-    - 🧑‍🎓 [Cursos](#cursos)
-    - 📃 [Tutoriales](#tutoriales)
-    - 💀 [Post Mortems](#post-mortems)
-    - 📌 [Miscelaneos](#miscelaneos)
+- 📦 [Recursos](#-recursos)
+    - 🏁 [Benchmarks](#-benchmarks)
+    - 🧑‍🎓 [Cursos](#-cursos)
+    - 📃 [Tutoriales](#-tutoriales)
+    - 💀 [Post Mortems](#-post-mortems)
+    - 📌 [Miscelaneos](#-miscelaneos)
 
 <div><hr></div>
 
@@ -52,6 +52,8 @@
 ## 📦 Recursos
 
   * 📚 [Libros](https://wp.me/p1baRR-Fv) - Recopilación de libros disponibles en digital (algunos en Español)
+
+  * 📂 [**anarcho-copy**/Go eBooks](https://edu.anarcho-copy.org/Programming%20Languages/Go/) - Libros en PDF para visualización y descarga directa
 
   - **[+]** Complementados en [Miscelaneos](#miscelaneos)
 
