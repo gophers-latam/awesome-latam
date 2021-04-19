@@ -10,6 +10,7 @@
 ### Contenidos:
 
 - 🌐 [Sitios](#-sitios)
+    - ⭐ [Menciones honoríficas en otros idiomas](#-menciones-honoríficas-en-otros-idiomas)
     - 🗒️ [Blogs](#%EF%B8%8F-blogs)
     - 📺 [Videos y canales](#-videos-y-canales)
     - 👨‍🏫 [Charlas y presentaciones](#-charlas-y-presentaciones)
@@ -27,8 +28,12 @@
 
 **Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Golang**
 
-## Menciones honoríficas en otros idiomas
-  * [awesome-go (inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
+## ⭐ Menciones honoríficas en otros idiomas
+  * [go tour (Inglés)](https://tour.golang.org/list) - Tour base oficial del lenguaje, para familizarse con los conceptos base y tsintaxis
+  * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
+  * [effective go (Inglés)](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
+  * [awesome-go (Inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
+
 
 ### 🗒️ Blogs
   * [charly3pins](https://charly3pins.dev/es/) - Blog de Go y tutoriales de [Carles Fuste](https://github.com/charly3pins)
