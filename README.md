@@ -29,7 +29,7 @@
 
 ## Menciones honoríficas en otros idiomas
   * [awesome-go (inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
-  * [GoByExample (Inglés)](https://gobyexample.com/) - Un ejemplo como creara algo en go con un ejemplo de los mejores sitios de los cuales yo he visto que explican sobre go.
+  * [GoByExample (Inglés)](https://gobyexample.com/) - Un ejemplo como crear algo en go con un ejemplo de los mejores sitios de los cuales yo he visto que explican sobre go.
 
 ### 🗒️ Blogs
   * [charly3pins](https://charly3pins.dev/es/) - Blog de Go y tutoriales de [Carles Fuste](https://github.com/charly3pins)
