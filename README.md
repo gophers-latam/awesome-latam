@@ -78,6 +78,8 @@
 
   * [Curso de Go (Golang) 2021 gratis](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) cen youtube por [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/playlists)
 
+  * [Curso Aprende a programar con Go gratis](https://www.youtube.com/watch?v=oWWrofDa8F8&list=PLSAQnrUqbx7sOdjJ5Zsq5FvvYtI8Kc-C5) en Youtube por [Eduar Tua](https://www.youtube.com/channel/UCF71aixD__xraqEWk4QpeTQ)
+
 ### 📃 Tutoriales
 
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
