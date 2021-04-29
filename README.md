@@ -15,6 +15,7 @@
     - ⭐ [Menciones honoríficas en otros idiomas & documentación oficial](#-menciones-honoríficas-en-otros-idiomas)
     - 📺 [Videos y canales](#-videos-y-canales)
     - 👨‍🏫 [Charlas y presentaciones](#-charlas-y-presentaciones)
+    - 💼 [Portales de empleos](#-portales-de-empleos)
 
 - 📦 [Recursos](#-recursos)
     - 🏁 [Benchmarks](#-benchmarks)
@@ -42,6 +43,7 @@
   * [awesome-go (Inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
 
 ### 🗒️ Blogs
+
   * [charly3pins](https://charly3pins.dev/es/) - Blog de Go y tutoriales de [Carles Fuste](https://github.com/charly3pins)
 
   * [c0d3.mx](https://umarquez.c0d3.mx/posts) - Blog con tutoriales de Go por [Uriel Márquez](https://github.com/umarquez)
@@ -49,6 +51,7 @@
   * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
 ### 📺 Videos y canales
+
   * [Golandia](https://www.youtube.com/c/Golandia) - Canal de youtube con tutoriales y discusiones acerca de Go y packages
 
   * [tomas lingotti](https://www.youtube.com/c/tomaslingotti) - Canal de videos sobre el lenguaje Golang, microservicios, tecnologías y mas, todo en español, hecho desde Argentina.
@@ -56,9 +59,20 @@
   * [Alexys Lozada](https://www.youtube.com/c/Alexyslozada) - Canal de la comunidad Golang de Alexys Lozada.
 
 ### 👨‍🏫 Charlas y presentaciones
+
   * [go-talks](https://github.com/lggomez/go-talks) - Repositorio de charlas y presentaciones sobre Go por [Luis Gomez](https://github.com/lggomez)
 
   * [Golang Guadalajara](https://www.youtube.com/channel/UCxpBz-Hw1p5S-v3vPpwi5oA) - Lives en FB y YT de [Golang Guadalajara](https://www.facebook.com/golang.guadalajara/)
+
+### 💼 Portales de empleos
+
+  * [Golang News jobs](https://golangnews.com/go-jobs)
+
+  * [Golang Cafe](https://golang.cafe/)
+
+  * [We Love Golang](https://welovegolang.com/)
+
+  * [Work with Go](https://workwithgo.com/)
 
 ## 📦 Recursos
 
