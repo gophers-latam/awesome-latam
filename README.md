@@ -10,7 +10,7 @@
 ### Contenidos:
 
 - 🌐 [Sitios](#-sitios)
-    - 💻 [Documentación y contenido oficial del lenguaje](#-documentaci&oacute;n-y-contenido-oficial-del-lenguaje)
+    - 💻 [Documentación y contenido oficial del lenguaje (Inglés)](#-documentaci&oacute;n-y-contenido-oficial-del-lenguaje-en-ingl&eacute;s)
     - 🗒️ [Blogs](#%EF%B8%8F-blogs)
     - ⭐ [Menciones honoríficas en otros idiomas & documentación oficial](#-menciones-honoríficas-en-otros-idiomas)
     - 📺 [Videos y canales](#-videos-y-canales)
@@ -29,13 +29,13 @@
 
 **Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Golang**
 
-## 💻 Documentación y contenido oficial del lenguaje
-  * [wiki (Inglés)](https://github.com/golang/go/wiki) - Wiki del github oficial de github. Incluye variedad de artículos sobre internals y recomendaciones del lenguaje
-  * [blog (Inglés)](https://blog.golang.org) - Blog oficial de go
-  * [go tour (Inglés)](https://tour.golang.org/list) - Tour base oficial del lenguaje, para familizarse con los conceptos base y sintaxis
-  * [effective go (Inglés)](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
-  * [effective code review comments (Inglés)](https://github.com/golang/go/wiki/CodeReviewComments) - Suplemento de effective go, incluye lineamientos y recomendaciones adicionales de desarrollo usualmente realizadas en code reviews de código en go (del team de Go)
-  * [spec (Inglés)](https://golang.org/ref/spec) - Especificación oficial del lenguaje
+## 💻 Documentación y contenido oficial del lenguaje en inglés
+  * [wiki](https://github.com/golang/go/wiki) - Wiki del github oficial de github. Incluye variedad de artículos sobre internals y recomendaciones del lenguaje
+  * [blog](https://blog.golang.org) - Blog oficial de go
+  * [go tour](https://tour.golang.org/list) - Tour base oficial del lenguaje, para familizarse con los conceptos base y sintaxis
+  * [effective go](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
+  * [effective code review comments](https://github.com/golang/go/wiki/CodeReviewComments) - Suplemento de effective go, incluye lineamientos y recomendaciones adicionales de desarrollo usualmente realizadas en code reviews de código en go (del team de Go)
+  * [spec](https://golang.org/ref/spec) - Especificación oficial del lenguaje
 
 ## ⭐ Menciones honoríficas en otros idiomas
   * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
