@@ -10,8 +10,9 @@
 ### Contenidos:
 
 - 🌐 [Sitios](#-sitios)
-    - ⭐ [Menciones honoríficas en otros idiomas](#-menciones-honoríficas-en-otros-idiomas)
+    - 💻 [Documentación y contenido oficial del lenguaje (Inglés)](#-documentaci&oacute;n-y-contenido-oficial-del-lenguaje-en-ingl&eacute;s)
     - 🗒️ [Blogs](#%EF%B8%8F-blogs)
+    - ⭐ [Menciones honoríficas en otros idiomas & documentación oficial](#-menciones-honoríficas-en-otros-idiomas)
     - 📺 [Videos y canales](#-videos-y-canales)
     - 👨‍🏫 [Charlas y presentaciones](#-charlas-y-presentaciones)
     - 💼 [Portales de empleos](#-portales-de-empleos)
@@ -29,13 +30,17 @@
 
 **Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Golang**
 
+## 💻 Documentación y contenido oficial del lenguaje en inglés
+  * [wiki](https://github.com/golang/go/wiki) - Wiki del github oficial de github. Incluye variedad de artículos sobre internals y recomendaciones del lenguaje
+  * [blog](https://blog.golang.org) - Blog oficial de go
+  * [go tour](https://tour.golang.org/list) - Tour base oficial del lenguaje, para familizarse con los conceptos base y sintaxis
+  * [effective go](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
+  * [effective code review comments](https://github.com/golang/go/wiki/CodeReviewComments) - Suplemento de effective go, incluye lineamientos y recomendaciones adicionales de desarrollo usualmente realizadas en code reviews de código en go (del team de Go)
+  * [spec](https://golang.org/ref/spec) - Especificación oficial del lenguaje
+
 ## ⭐ Menciones honoríficas en otros idiomas
-
-  * [go tour (Inglés)](https://tour.golang.org/list) - Tour base oficial del lenguaje, para familizarse con los conceptos base y tsintaxis
   * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
-  * [effective go (Inglés)](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
   * [awesome-go (Inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
-
 
 ### 🗒️ Blogs
 
