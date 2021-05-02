@@ -37,6 +37,9 @@
   * [effective go](https://golang.org/doc/effective_go) - Lineamientos y recomiendaciones de desarrollo oficiales de la documentación de Go
   * [effective code review comments](https://github.com/golang/go/wiki/CodeReviewComments) - Suplemento de effective go, incluye lineamientos y recomendaciones adicionales de desarrollo usualmente realizadas en code reviews de código en go (del team de Go)
   * [spec](https://golang.org/ref/spec) - Especificación oficial del lenguaje
+  * *Manejo* *de* *errores*
+    * [Errors are values](https://blog.golang.org/errors-are-values) - Posteo original de Rob Pike sobre la semántica de los errores en Go y dando recomendaciones de uso
+    * [Error handling in go 1.13+](https://blog.golang.org/go1.13-errors) - Posteo del team sobre la extensión de la API de errores (a partir de Go 1.13) con los métodos `Is, As y Unwrap` y el wildcard de formato `%w`, indicando recomendaciones de uso 
 
 ## ⭐ Menciones honoríficas en otros idiomas
   * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
