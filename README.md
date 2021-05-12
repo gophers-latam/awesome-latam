@@ -99,9 +99,11 @@
 
   * [Primeros pasos con Go](https://docs.microsoft.com/es-es/learn/paths/go-first-steps/) curso interactivo de libre acceso por [Microsoft](https://microsoft.com/)
 
-  * [Curso de Go (Golang) 2021 gratis](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) cen youtube por [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/playlists)
+  * [Curso de Go (Golang) 2021 gratis](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) en youtube por [Alex Roel Code](https://www.youtube.com/channel/UCEFS_rvehmW2k14Ci_XzTcQ/playlists)
 
   * [Curso Aprende a programar con Go gratis](https://www.youtube.com/watch?v=oWWrofDa8F8&list=PLSAQnrUqbx7sOdjJ5Zsq5FvvYtI8Kc-C5) en Youtube por [Eduar Tua](https://www.youtube.com/channel/UCF71aixD__xraqEWk4QpeTQ)
+
+  * [CURSO GOLANG PARA PRINCIPIANTE](https://www.youtube.com/playlist?list=PLm28buT4PAtbsurufxiw9k2asnkin4YLd) en Youtube por [Golandia](https://www.youtube.com/c/Golandia)
 
 ### 📃 Tutoriales
 
@@ -110,6 +112,10 @@
   * [REST API con Go](https://www.youtube.com/watch?v=pQAV8A9KLwk) - Este recurso esta en YouTube por [Fazt](https://www.youtube.com/channel/UCMn28O1sQGochG94HdlthbA)
 
   * [Maps en Go](https://www.youtube.com/watch?v=Tl7mi9QmLns) - En inglés
+
+  * [CÓMO hacer un CRUD ► 🎁 crud GOlang MySql PASO a PASO](https://www.youtube.com/watch?v=G58gN0lIbyI) - en youtube por [Develoteca](https://www.youtube.com/channel/UCne4X8czEkhh8GPRjXBIQJw)
+
+  * [REST API con Golang, mysql y chi, en español](https://www.youtube.com/playlist?list=PLp7DJUzKQx1IMrNhjzBC46qmyjEJRbGug) - en youtube por [tomas lingotti](https://www.youtube.com/c/tomaslingotti)
 
 ### 💀 Post Mortems
 
