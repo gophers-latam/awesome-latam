@@ -105,7 +105,7 @@
 
   * [CURSO GOLANG PARA PRINCIPIANTE](https://www.youtube.com/playlist?list=PLm28buT4PAtbsurufxiw9k2asnkin4YLd) en Youtube por [Golandia](https://www.youtube.com/c/Golandia)
   
-  * [Apuntes de Golang (Desde Cero) en español] (https://apuntes.de/golang) notas y videos en cada lección.
+  * [Apuntes de Golang Desde Cero en español](https://apuntes.de/golang) notas y videos en cada lección.
 
 ### 📃 Tutoriales
 
