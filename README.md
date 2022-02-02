@@ -104,6 +104,8 @@
   * [Curso Aprende a programar con Go gratis](https://www.youtube.com/watch?v=oWWrofDa8F8&list=PLSAQnrUqbx7sOdjJ5Zsq5FvvYtI8Kc-C5) en Youtube por [Eduar Tua](https://www.youtube.com/channel/UCF71aixD__xraqEWk4QpeTQ)
 
   * [CURSO GOLANG PARA PRINCIPIANTE](https://www.youtube.com/playlist?list=PLm28buT4PAtbsurufxiw9k2asnkin4YLd) en Youtube por [Golandia](https://www.youtube.com/c/Golandia)
+  
+  * [Apuntes de Golang (Desde Cero) en español] (https://apuntes.de/golang) notas y videos en cada lección.
 
 ### 📃 Tutoriales
 
