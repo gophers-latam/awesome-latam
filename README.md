@@ -87,7 +87,7 @@
 
 ### 🏁 Benchmarks
 
-  * TODO
+  * [golang/benchmarks](https://github.com/golang/benchmarks) - Puntos de referencia oficiales
 
 ### 🧑‍🎓 Cursos
 
