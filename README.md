@@ -39,7 +39,8 @@
   * [spec](https://golang.org/ref/spec) - Especificación oficial del lenguaje
   * *Manejo* *de* *errores*
     * [Errors are values](https://blog.golang.org/errors-are-values) - Posteo original de Rob Pike sobre la semántica de los errores en Go y dando recomendaciones de uso
-    * [Error handling in go 1.13+](https://blog.golang.org/go1.13-errors) - Posteo del team sobre la extensión de la API de errores (a partir de Go 1.13) con los métodos `Is, As y Unwrap` y el wildcard de formato `%w`, indicando recomendaciones de uso 
+    * [Error handling in go 1.13+](https://blog.golang.org/go1.13-errors) - Posteo del team sobre la extensión de la API de errores (a partir de Go 1.13) con los métodos `Is, As y Unwrap` y el wildcard de formato `%w`, indicando recomendaciones de uso
+    * [Generics in go 1.18 - Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics): Tutorial oficial y extenso sobre el nuevo soporte generics en go 1.18
 
 ## ⭐ Menciones honoríficas en otros idiomas
   * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
