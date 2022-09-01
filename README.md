@@ -56,6 +56,8 @@
 
   * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
+  * [GoWikiBlogs](https://gowikiblogs.herokuapp.com) - Wiki simple para indexar blogs sobre Go. Agregar entrada a compartir vía [addblog](https://gowikiblogs.herokuapp.com/addblog/)
+
 ### 📺 Videos y canales
 
   * [Golandia](https://www.youtube.com/c/Golandia) - Canal de youtube con tutoriales y discusiones acerca de Go y packages
