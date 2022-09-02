@@ -94,6 +94,8 @@
 
   * [golang/benchmarks](https://github.com/golang/benchmarks) - Puntos de referencia oficiales
 
+  - [Tutorial: Accurate Benchmarks in Go](https://teivah.medium.com/how-to-write-accurate-benchmarks-in-go-4266d7dd1a95) - Por el autor de *[100 Go Mistakes](https://github.com/teivah/100-go-mistakes)* relacionado a mistake [#89](https://github.com/teivah/100-go-mistakes/tree/master/11-testing/89-benchmark). 
+
 ### 🧑‍🎓 Cursos
 
   * [Curso Gratis Go de 0 a 100](https://www.youtube.com/playlist?list=PLl_hIu4u7P64MEJpR3eVwQ1l_FtJq4a5g) gratuito en youtube por [G Coding Academy](https://www.youtube.com/c/GCodingAcademy)
