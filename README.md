@@ -80,7 +80,7 @@
 
   * [We Love Golang](https://welovegolang.com/)
 
-  * [Work with Go](https://workwithgo.com/)
+  * [Golang Projects](https://www.golangprojects.com/)
 
 ## 📦 Recursos
 
