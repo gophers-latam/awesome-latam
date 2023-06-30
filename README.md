@@ -1,7 +1,7 @@
 # 👓 awesome-latam 🌎
 
 <p align="center">
-  <img width="150" height="30" src="https://discord.io/go-latam/badge">
+  <img width="150" height="30" src="https://discord.io/gophers-latam/badge">
   <img width="150" height="30" src="https://img.shields.io/discord/764989185077542942">
 </p>
 
