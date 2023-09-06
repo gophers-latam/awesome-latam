@@ -21,6 +21,7 @@
     - 🏁 [Benchmarks](#-benchmarks)
     - 🧑‍🎓 [Cursos](#-cursos)
     - 📃 [Tutoriales](#-tutoriales)
+    - 🧩 [Algoritmos con go](#-algoritmos-y-estructuras-de-datos)
     - 💀 [Post Mortems](#-post-mortems)
     - 📌 [Miscelaneos](#-miscelaneos)
 
@@ -127,6 +128,10 @@
   * [REST API con Golang, mysql y chi, en español](https://www.youtube.com/playlist?list=PLp7DJUzKQx1IMrNhjzBC46qmyjEJRbGug) - en youtube por [tomas lingotti](https://www.youtube.com/c/tomaslingotti)
 
   * [Aprende y domina conceptos para lograr fluidez en Go](https://exercism.org/tracks/go/concepts) y [resolucion de ejercicios](https://exercism.org/tracks/go/exercises) -En ingles gratuitos por [Exercism](https://exercism.org)
+
+### 🧩 Algoritmos y Estructuras de datos
+
+  * [Algoritmos con go](https://algorithmswithgo.com/) - En ingles
 
 ### 💀 Post Mortems
 
