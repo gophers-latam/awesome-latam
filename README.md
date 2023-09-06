@@ -21,7 +21,7 @@
     - 🏁 [Benchmarks](#-benchmarks)
     - 🧑‍🎓 [Cursos](#-cursos)
     - 📃 [Tutoriales](#-tutoriales)
-    - 🧩 [Algoritmos con go](#-algoritmos-con-go)
+    - 🧩 [Algoritmos con go](#-algoritmos-&-structuras-de-datos)
     - 💀 [Post Mortems](#-post-mortems)
     - 📌 [Miscelaneos](#-miscelaneos)
 
@@ -129,9 +129,9 @@
 
   * [Aprende y domina conceptos para lograr fluidez en Go](https://exercism.org/tracks/go/concepts) y [resolucion de ejercicios](https://exercism.org/tracks/go/exercises) -En ingles gratuitos por [Exercism](https://exercism.org)
 
-### 🧩 Algoritmos, estructuras de datos
+### 🧩 Algoritmos & Estructuras de datos
 
-  * [Algoritmos con go](https://algorithmswithgo.com/) 
+  * [Algoritmos con go](https://algorithmswithgo.com/) - En ingles
 
 ### 💀 Post Mortems
 
