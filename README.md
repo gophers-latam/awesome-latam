@@ -21,7 +21,7 @@
     - 🏁 [Benchmarks](#-benchmarks)
     - 🧑‍🎓 [Cursos](#-cursos)
     - 📃 [Tutoriales](#-tutoriales)
-    - 🧩 [Algoritmos con go](#-algoritmos-y-structuras-de-datos)
+    - 🧩 [Algoritmos con go](#-algoritmos-y-estructuras-de-datos)
     - 💀 [Post Mortems](#-post-mortems)
     - 📌 [Miscelaneos](#-miscelaneos)
 
