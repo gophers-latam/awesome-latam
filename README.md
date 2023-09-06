@@ -129,7 +129,7 @@
 
   * [Aprende y domina conceptos para lograr fluidez en Go](https://exercism.org/tracks/go/concepts) y [resolucion de ejercicios](https://exercism.org/tracks/go/exercises) -En ingles gratuitos por [Exercism](https://exercism.org)
 
-### 🧩 Algoritmos con go
+### 🧩 Algoritmos, estructuras de datos
 
   * [Algoritmos con go](https://algorithmswithgo.com/) 
 
