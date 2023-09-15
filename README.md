@@ -1,7 +1,7 @@
 # 👓 awesome-latam 🌎
 
 <p align="center">
-  <img width="150" height="30" src="https://discord.io/gophers-latam/badge">
+  <!-- <img width="150" height="30" src="https://discord.io/gophers-latam/badge"> -->
   <img width="150" height="30" src="https://img.shields.io/discord/764989185077542942">
 </p>
 
@@ -75,13 +75,13 @@
 
 ### 💼 Portales de empleos
 
-  * [Golang News jobs](https://golangnews.com/go-jobs)
+  * [Golang News /jobs .com](https://golangnews.com/go-jobs)
 
-  * [Golang Cafe](https://golang.cafe/)
+  * [Golang .cafe](https://golang.cafe)
 
-  * [We Love Golang](https://welovegolang.com/)
+  * [Golang Projects .com](https://www.golangprojects.com)
 
-  * [Golang Projects](https://www.golangprojects.com/)
+  * [Golang Jobs .xyz](https://golangjob.xyz)
 
 ## 📦 Recursos
 
