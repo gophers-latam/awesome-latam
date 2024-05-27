@@ -1,7 +1,6 @@
 # 👓 awesome-latam 🌎
 
 <p align="center">
-  <!-- <img width="150" height="30" src="https://discord.io/gophers-latam/badge"> -->
   <img width="150" height="30" src="https://img.shields.io/discord/764989185077542942">
 </p>
 
@@ -32,6 +31,7 @@
 **Sitios dedicados al desarrollo en Go o desarrollo en general pero con foco en Golang**
 
 ## 💻 Documentación y contenido oficial del lenguaje en inglés
+
   * [wiki](https://github.com/golang/go/wiki) - Wiki del github oficial de github. Incluye variedad de artículos sobre internals y recomendaciones del lenguaje
   * [release history](https://go.dev/doc/devel/release): Historial de versiones de go y sus release notes asociadas (también en inglés)
   * [blog](https://blog.golang.org) - Blog oficial de go
@@ -46,6 +46,7 @@
   * [Generics in go 1.18 - Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics): Tutorial oficial y extenso sobre el nuevo soporte generics en go 1.18
 
 ## ⭐ Menciones honoríficas en otros idiomas
+
   * [go-proverbs (Inglés)](https://go-proverbs.github.io/) - Lineamientos de desarrollo y buenas practicas dados en forma de proverbios por Rob Pike en 2015
   * [awesome-go (Inglés)](https://github.com/avelino/awesome-go) - Es la lista definitiva de packages, y frameworks de go mantenida por la comunidad internacional. Antes de crear un package, fíjate si existe en esta lista y si te sirven sus prestaciones y API. Como último recurso, siempre está la [búsqueda avanzada](https://github.com/search/advanced) de Github
 
@@ -57,9 +58,11 @@
 
   * [friendsofgo](https://blog.friendsofgo.tech/) - Blog con articulos tecnicos por [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
-  * [GoWikiBlogs](https://gowikiblogs.herokuapp.com) - Wiki simple para indexar blogs sobre Go. Agregar entrada a compartir vía [addblog](https://gowikiblogs.herokuapp.com/addblog/)
+  * [gophers-latam.github.io](https://gophers-latam.github.io/posts/) - Seccion del sitio de Gophers LATAM para publicaciones de la comunidad
 
 ### 📺 Videos y canales
+
+  * [Gophers LATAM](https://www.youtube.com/@gophers-latam) - Canal de youtube comunitario de contenido originado en el Discord
 
   * [Golandia](https://www.youtube.com/c/Golandia) - Canal de youtube con tutoriales y discusiones acerca de Go y packages
 
@@ -75,19 +78,21 @@
 
 ### 💼 Portales de empleos
 
-  * [Golang News /jobs .com](https://golangnews.com/go-jobs)
+  * [GolangNews /jobs .com](https://golangnews.com/go-jobs)
 
   * [Golang .cafe](https://golang.cafe)
 
-  * [Golang Projects .com](https://www.golangprojects.com)
+  * [GolangProjects .com](https://www.golangprojects.com)
 
-  * [Golang Jobs .xyz](https://golangjob.xyz)
+  * [GolangJobs .xyz](https://golangjob.xyz)
 
 ## 📦 Recursos
 
-  * 📚 [Libros](https://wp.me/p1baRR-Fv) - Recopilación de libros disponibles en digital (algunos en Español)
+  * 📚 [Libros](https://wp.me/p1baRR-Fv) - Recopilación [hasta el 2022] de libros disponibles en digital (algunos en Español)
 
   * 📂 [**anarcho-copy**/Go eBooks](https://edu.anarcho-copy.org/Programming%20Languages/Go/) - Libros en PDF para visualización y descarga directa
+
+  * 📚 [Awesome Go Education](https://mehdihadeli.github.io/awesome-go-education/) - Lista de fantásticos artículos y recursos para aprender y practicar Go con tecnologías relacionadas, actualizada continuamente (en Inglés)
 
   - **[+]** Complementados en [Miscelaneos](#miscelaneos)
 
@@ -117,7 +122,7 @@
 
 ### 📃 Tutoriales
 
-  * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [Jesús Ferrer Sánchez](https://github.com/zeroidentidad)
+  * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [フ乇丂ひ丂](https://github.com/zeroidentidad)
 
   * [REST API con Go](https://www.youtube.com/watch?v=pQAV8A9KLwk) - Este recurso esta en YouTube por [Fazt](https://www.youtube.com/channel/UCMn28O1sQGochG94HdlthbA)
 
@@ -127,11 +132,15 @@
 
   * [REST API con Golang, mysql y chi, en español](https://www.youtube.com/playlist?list=PLp7DJUzKQx1IMrNhjzBC46qmyjEJRbGug) - en youtube por [tomas lingotti](https://www.youtube.com/c/tomaslingotti)
 
-  * [Aprende y domina conceptos para lograr fluidez en Go](https://exercism.org/tracks/go/concepts) y [resolucion de ejercicios](https://exercism.org/tracks/go/exercises) -En ingles gratuitos por [Exercism](https://exercism.org)
+  * [Aprende y domina conceptos para lograr fluidez en Go](https://exercism.org/tracks/go/concepts) y [resolucion de ejercicios](https://exercism.org/tracks/go/exercises) - En Inglés, por [Exercism](https://exercism.org)
+
+  * [Apunte GOOOP](https://gist.github.com/zeroidentidad/dac5a7611c3af1b98da8dd700285551b) - guía básica por [フ乇丂ひ丂](https://github.com/zeroidentidad), video en Inglés sobre el tema [GopherCon 2023: Dylan Bourque - Clean Up Your GOOOP](https://www.youtube.com/watch?v=tautMDOlEFs)
 
 ### 🧩 Algoritmos y Estructuras de datos
 
   * [Algoritmos con go](https://algorithmswithgo.com/) - En ingles
+
+   * [Los algoritmos con go](https://the-algorithms.com/language/go) (repo: [github.com/TheAlgorithms/Go](https://github.com/TheAlgorithms/Go))- En ingles 
 
 ### 💀 Post Mortems
 
