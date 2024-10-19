@@ -121,6 +121,8 @@
   * [Apuntes de Golang Desde Cero en español](https://apuntes.de/golang) notas y videos en cada lección.
 
 ### 📃 Tutoriales
+ 
+  * [Tour de Go (Español)](https://go-tour-lat.appspot.com/) - Tour base oficial del lenguaje en español, para familizarse con los conceptos base y sintaxis
 
   * [Aprender Go en X minutos](https://awebytes.wordpress.com/2021/03/11/aprender-go-en-x-minutos/) - Introducción resumida a Go por [フ乇丂ひ丂](https://github.com/zeroidentidad)
 
