@@ -150,6 +150,8 @@
 
 ### 📌 Miscelaneos
 
+  * [kaijuconverter-go](https://github.com/PabloCirre/kaijuconverter-go) - Cliente y SDK en Go de código abierto para la API de conversión universal de archivos de [KaijuConverter](https://kaijuconverter.com/es)
+
   * [gophers-mx/recursos](https://github.com/gophers-mx/recursos) - Repositorio de recursos por la comunidad [gophers-mx](https://github.com/gophers-mx)
 
   * [meetups](http://golang.org/s/meetup) - Red mundial de desarrolladores de Go por [GDG](https://www.meetup.com/es/pro/go)
