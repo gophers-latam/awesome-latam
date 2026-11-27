@@ -158,6 +158,8 @@
 
   * [friendsofgo](https://github.com/friendsofgo) - Repositorio del blog [FriendsOfGo](https://friendsofgo.tech/) con ejemplos y proyectos por  [Adrian Perez](https://github.com/aperezg) , [Joan Lopez De La Franca](https://github.com/joanlopez)
 
+  * [SerialSpan](https://github.com/eleree/SerialSpan) - Herramienta autoalojada, con backend en Go, para monitorear y compartir puertos serie de dispositivos embebidos desde el navegador; el acceso remoto requiere aprobación local y puede usar el relay del servidor si WebRTC directo no está disponible.
+
 <div><hr></div>
 
 ## 🧑‍💻 Contribuir
