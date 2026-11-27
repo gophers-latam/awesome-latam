@@ -119,6 +119,7 @@
   * [CURSO GOLANG PARA PRINCIPIANTE](https://www.youtube.com/playlist?list=PLm28buT4PAtbsurufxiw9k2asnkin4YLd) en Youtube por [Golandia](https://www.youtube.com/c/Golandia)
   
   * [Apuntes de Golang Desde Cero en español](https://apuntes.de/golang) notas y videos en cada lección.
+  * [Curso de Go con ejercicios](https://theworkgym.com/es/go/) en The Work Gym: ejercicios que compilan en el navegador, de slices y mapas a genéricos, concurrencia y handlers HTTP; la primera unidad es gratis
 
 ### 📃 Tutoriales
  
